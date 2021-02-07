@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/random-joke/static/css/main.2c981775.chunk.css",
-    "main.js": "/random-joke/static/js/main.0f50091d.chunk.js",
-    "main.js.map": "/random-joke/static/js/main.0f50091d.chunk.js.map",
-    "runtime-main.js": "/random-joke/static/js/runtime-main.a81c93e1.js",
-    "runtime-main.js.map": "/random-joke/static/js/runtime-main.a81c93e1.js.map",
-    "static/js/2.4013c373.chunk.js": "/random-joke/static/js/2.4013c373.chunk.js",
-    "static/js/2.4013c373.chunk.js.map": "/random-joke/static/js/2.4013c373.chunk.js.map",
-    "index.html": "/random-joke/index.html",
-    "static/css/main.2c981775.chunk.css.map": "/random-joke/static/css/main.2c981775.chunk.css.map",
-    "static/js/2.4013c373.chunk.js.LICENSE.txt": "/random-joke/static/js/2.4013c373.chunk.js.LICENSE.txt"
+    "main.css": "/react-joke/static/css/main.2c981775.chunk.css",
+    "main.js": "/react-joke/static/js/main.a1d0e81d.chunk.js",
+    "main.js.map": "/react-joke/static/js/main.a1d0e81d.chunk.js.map",
+    "runtime-main.js": "/react-joke/static/js/runtime-main.3ba49c8a.js",
+    "runtime-main.js.map": "/react-joke/static/js/runtime-main.3ba49c8a.js.map",
+    "static/js/2.47571380.chunk.js": "/react-joke/static/js/2.47571380.chunk.js",
+    "static/js/2.47571380.chunk.js.map": "/react-joke/static/js/2.47571380.chunk.js.map",
+    "index.html": "/react-joke/index.html",
+    "static/css/main.2c981775.chunk.css.map": "/react-joke/static/css/main.2c981775.chunk.css.map",
+    "static/js/2.47571380.chunk.js.LICENSE.txt": "/react-joke/static/js/2.47571380.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a81c93e1.js",
-    "static/js/2.4013c373.chunk.js",
+    "static/js/runtime-main.3ba49c8a.js",
+    "static/js/2.47571380.chunk.js",
     "static/css/main.2c981775.chunk.css",
-    "static/js/main.0f50091d.chunk.js"
+    "static/js/main.a1d0e81d.chunk.js"
   ]
 }
